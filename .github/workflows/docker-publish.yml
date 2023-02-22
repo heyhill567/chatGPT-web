@@ -17,5 +17,5 @@ jobs:
           imageName: ljyyjl520/chatgpt
           tag: latest
           platform: linux/amd64,linux/arm64
-          dockerUser: ${{ secrets.DOCKER_USERNAME }}
-          dockerPassword: ${{ secrets.DOCKER_PASSWORD }}
+          dockerUser: ljyyjl520
+          dockerPassword: dckr_pat_Q-5y8FwjpKggYZHac3qy_nm-YVE
